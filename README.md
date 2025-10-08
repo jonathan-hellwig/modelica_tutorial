@@ -5,8 +5,8 @@
 ### 1. Grab the files
 ```bash
 cd ~/projects
-git clone https://github.com/your-org/modelica-tutorial.git 3_modelica
-cd 3_modelica
+git clone https://github.com/your-org/modelica-tutorial.git
+cd modelica-tutorial
 ```
 
 ### 2. Option A – Explore with OMEdit (GUI)
@@ -16,7 +16,7 @@ cd 3_modelica
 
 ### 2. Option B – Run from the terminal
 ```bash
-cd /home/hellwig/kit/2_code/3_modelica
+cd modelica-tutorial
 omc models/basics/cooling.mo
 ./NewtonCooling
 ```
