@@ -1,4 +1,4 @@
-# 🌼 Modelica Tutorial
+# Modelica Tutorial
 ## Quick start
 **Prerequisite**: Install [OpenModelica](https://openmodelica.org/) ≥ 1.21 (OMEdit, OMShell, or just the `omc` compiler). Dymola or Wolfram SystemModeler will also work if you remap library paths.
 
